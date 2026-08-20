@@ -59,9 +59,9 @@ export default function Footer() {
           </span>
           <span className="credits">
             Designed &amp; Managed by{' '}
-            <a href="http://bizonance.in/" target="_blank" rel="noopener noreferrer">
-              <Image src="/biz-brand-name.png" alt="Bizonance" width={80} height={20} />
-            </a>
+            <p style={{ display: 'inline', color: '#575555' }}>
+              Mohammad Faaiz
+            </p>
           </span>
         </div>
       </div>
